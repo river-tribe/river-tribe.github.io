@@ -11,15 +11,14 @@ strong {
    font-style: bold;
 }
 
-h1, h2, h3, h4, h5, h6 {
-   color: green;
-   font-family: 'Alegreya', serif;
-}
-
-body {
+h1, h2, h3, h4, h5, h6, body {
    font-family: 'Alegreya', serif;
 }
 
 a {
    color: green;
+}
+
+a:hover {
+   color: #2f5c29;
 }
