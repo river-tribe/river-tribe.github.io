@@ -1,7 +1,11 @@
 li {
-    list-style-type: circle;
+   list-style-type: circle;
 }
 
 img { 
    border:1px solid #021a40;
+}
+
+abbr {
+   font-style: italic;
 }
