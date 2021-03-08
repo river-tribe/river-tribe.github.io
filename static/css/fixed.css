@@ -1,9 +1,18 @@
-li {
+ul li {
    list-style-type: circle;
 }
 
-img { 
-   border:1px solid #021a40;
+ul li ul li {
+   list-style-type: square;
+}
+
+img {
+   border: 1px solid #021a40;
+}
+
+img.homepage { 
+   max-width: 830px;
+   max-height: 455px;
 }
 
 strong {
