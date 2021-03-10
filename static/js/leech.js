@@ -2,7 +2,7 @@ const passes = {'Alison':'/*AlisonS*/', 'Kale':'/*KaleE*/', 'Antoni':'/*AntoniH*
 const namearr = Object.keys(passes);
 
 function textChecked() {
-  window.location.href = 'https://river-tribe.github.io/leech.html';
+  window.location.href = 'https://river-tribe.github.io/leech/leech.html';
 }
 
 function textFailed() {
