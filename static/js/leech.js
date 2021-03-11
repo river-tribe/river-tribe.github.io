@@ -1,4 +1,4 @@
-const passes = {'Alison':'/*AlisonS*/', 'Kale':'/*KaleE*/', 'Antoni':'/*AntoniH*/'};
+const passes = {'Alison':'/*AlisonS*/', 'Kale':'/*KaleE*/', 'Antoni':'/*AntoniH*/', 'Joshua':'/*JoshuaK*/', 'Zohar':'/*ZoharW*/'};
 const namearr = Object.keys(passes);
 
 function textChecked() {
